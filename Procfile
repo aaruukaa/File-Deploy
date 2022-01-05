@@ -1,1 +1,1 @@
-worker: bash FileSharingMan
+worker: bash ark
