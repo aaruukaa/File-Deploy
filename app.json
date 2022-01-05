@@ -6,10 +6,10 @@
     "file",
     "sharing"
   ],
-    "repository": "https://github.com/tobangen/Octagram",
-  "logo": "https://telegra.ph/file/b8210e02f23b3d32f103b.jpg",
+    "repository": "https://github.com/tobangen/Arkfileshare",
+  "logo": "https://telegra.ph/file/c45b4f24c8200484280b5.png",
   "env": {
-    "TG_BOT_TOKEN": {
+    "BOT TOKET": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
       "value": ""
     },
@@ -59,7 +59,7 @@
       "required": false
     },
     "GROUP":{
-      "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
+      "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya (tidak wajib Diisi) [ Jangan Pake @ ]",
       "value": "octagrambot",
       "required": false
     }
