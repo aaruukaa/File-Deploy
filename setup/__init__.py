@@ -1,3 +1,2 @@
-# @mrismanaziz
-# t.me/Lunatic0de
-# t.me/SharingUserbot
+# @aaruukaa
+# t.me/aaruukaa
